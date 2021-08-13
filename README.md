@@ -3,8 +3,8 @@
 
 # Dicee 🎲
 
-## What you will create
+## What I have created
 
-We’re going to make a  dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+I have maked a  dice app. I have maked the die roll at the press of a button. With this app in your pocket, we’ll be able to settle any score on the go!
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
